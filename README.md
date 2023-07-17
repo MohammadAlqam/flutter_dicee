@@ -2,15 +2,9 @@
 
 Dicee flutter project.
 
-## Getting Started
+## App Icon
+![InkedScreenshot_٢٠٢٣٠٧١٧-٠٢٣٩٠٣_Samsung Experience Home](https://github.com/MohammadAlqam/flutter_dicee/assets/88941388/1436e0aa-3468-467a-80b2-7fefc6d0d07a)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Interface
+![Screenshot_٢٠٢٣٠٧١٧-٠٢٣٩٠٩](https://github.com/MohammadAlqam/flutter_dicee/assets/88941388/dce4aa61-0590-48bf-a909-0ed613c0f900)
